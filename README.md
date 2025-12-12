@@ -15,13 +15,12 @@
 
 </div>
 
----
 
 ##  Demo Video
 
- **[Watch Demo Video](YOUR_VIDEO_LINK_HERE)** - A quick walkthrough of the application features
+ **[Watch Demo Video](https://youtu.be/-SjddGr_-UM)** - A quick walkthrough of the application features
 
----
+
 
 ##  Table of Contents
 
@@ -32,9 +31,8 @@
 - [Installation & Setup](#-installation--setup)
 - [API Documentation](#-api-documentation)
 - [Project Structure](#-project-structure)
-- [Screenshots](#-screenshots)
 
----
+
 
 ##  Features
 
@@ -64,7 +62,7 @@
 - Statistics dashboard
 - Project status indicators
 
----
+
 
 ##  Tech Stack
 
@@ -102,7 +100,6 @@
 | **Docker Compose** | Multi-container orchestration |
 | **Nginx** | Reverse proxy & static files |
 
----
 
 ##  Architecture
 
@@ -120,9 +117,6 @@
    React Router           REST API
    Axios                  JPA/Hibernate
 ```
-
----
-
 ##  Prerequisites
 
 Before you begin, ensure you have the following installed:
@@ -212,7 +206,7 @@ Two demo accounts are created automatically:
 
 | Email | Password | Role |
 |-------|----------|------|
-| `demo@taskmanager.com` | `demo123` | User |
+| `Hahn@taskmanager.com` | `Hahn123` | User |
 | `admin@taskmanager.com` | `admin123` | Admin |
 
 ---
@@ -360,17 +354,10 @@ npm run test
 
 ---
 
-##  License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ##  Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [Nabil ER-RAIS](https://github.com/Nabiltornedo)
+- LinkedIn: [Nabil ER-RAIS](https://www.linkedin.com/in/nabil-er-rais-9228732ba/)
 
 ---
 
